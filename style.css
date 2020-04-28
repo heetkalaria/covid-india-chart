@@ -1,0 +1,40 @@
+.box1:hover
+{
+    box-shadow: 0px 0px 25px -1px rgba(255,193,7,1);
+    transition: 0.5s ease;
+}
+.box1
+{
+    border-radius: 5px;
+    padding:5px;
+}
+.box2:hover
+{
+    box-shadow: 0px 0px 25px -1px rgba(23,178,216,1);
+    transition: 0.5s ease;
+}
+.box2
+{
+    border-radius: 5px;
+    padding:5px;
+}
+.box3:hover
+{
+    box-shadow: 0px 0px 25px -1px rgba(40,167,69,1);
+    transition: 0.5s ease;
+}
+.box3
+{
+    border-radius: 5px;
+    padding:5px;
+}
+.box4:hover
+{
+    box-shadow: 0px 0px 25px -1px rgba(220,53,69,1);
+    transition: 0.5s ease;
+}
+.box4
+{
+    border-radius: 5px;
+    padding:5px;
+}
